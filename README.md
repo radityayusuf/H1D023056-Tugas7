@@ -1,4 +1,4 @@
-<img width="1080" height="2400" alt="Screenshot_1763289304" src="https://github.com/user-attachments/assets/38bddeca-224c-409c-a49d-a2e5683aa3cd" />H1D023056_Tugas7
+H1D023056_Tugas7
 Proyek ini mengimplementasikan fungsionalitas Login, Routes, Side Menu, dan Local Storage (Shared Preferences). Namun, implementasinya dibuat berbeda dari modul untuk menunjukkan pemahaman konsep yang lebih mendalam dan UI yang lebih modern.
 
 Fitur Utama & Pembeda dari Modul
@@ -108,5 +108,5 @@ Keduanya adalah StatelessWidget sederhana yang juga memanggil drawer: const AppD
 
 Tampilan : 
 
-<img width="1080" height="2400" alt="Screenshot_1763289304" src="https://github.com/user-attachments/assets/68f43f9a-ac03-473b-9846-cd06319a354b" />
+<img width="500" alt="Screenshot_1763289304" src="https://github.com/user-attachments/assets/68f43f9a-ac03-473b-9846-cd06319a354b" />
 
