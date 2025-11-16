@@ -108,5 +108,18 @@ Keduanya adalah StatelessWidget sederhana yang juga memanggil drawer: const AppD
 
 Tampilan : 
 
-<img width="500" alt="Screenshot_1763289304" src="https://github.com/user-attachments/assets/68f43f9a-ac03-473b-9846-cd06319a354b" />
+<img width="300" alt="Screenshot_1763289304" src="https://github.com/user-attachments/assets/68f43f9a-ac03-473b-9846-cd06319a354b" />
+
+<img width="300" alt="Screenshot_1763289311" src="https://github.com/user-attachments/assets/7bd12d8f-89d3-4fab-bc6a-0efae0223bd9" />
+
+<img width="300" alt="Screenshot_1763289337" src="https://github.com/user-attachments/assets/d8055832-7861-4451-801a-471b9b5bac3d" />
+
+<img width="300" alt="Screenshot_1763289343" src="https://github.com/user-attachments/assets/9f1c6d8a-1c49-47d0-bf2d-f63c1bbc3413" />
+
+<img width="300" alt="Screenshot_1763289349" src="https://github.com/user-attachments/assets/f921adc6-d714-42bd-97f7-7bee5251999d" />
+
+<img width="300" alt="Screenshot_1763289355" src="https://github.com/user-attachments/assets/7d79415a-c4ac-4cd3-bb32-2b9090b219ff" />
+
+
+
 
